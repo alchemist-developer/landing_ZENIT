@@ -28,8 +28,8 @@ const content = {
   brand: {
     name: 'ZenIT Consulting',
     initials: 'Z',
-    email: 'contato@zenit.consulting',
-    linkedin: 'https://www.linkedin.com/company/zenit-consulting/',
+    email: 'contato@zenitconsulting.com.br',
+    linkedin: 'https://www.linkedin.com/company/zenitglobalconsulting/',
     address: 'Consultoria remota e presencial sob demanda',
     copyright: 'Copyright © 2026 ZenIT Consulting'
   },
